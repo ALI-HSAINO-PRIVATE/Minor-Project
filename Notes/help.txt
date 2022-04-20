@@ -1,0 +1,12 @@
+Font : Lato google fonts
+Libraries : 1-Font awesome for Icons
+            2-Normalize.css to reset element values(Padding,Margin,...etc)
+Colors :    1-Main color : #0099ff
+            1-alt color : #005792
+Languages : 1-HTML
+            2-CSS
+            3-JS
+3rd Party Applications Used : 1-Formspree : For receiving Emails Through The Contact Form 
+                              Email ID For 3rd Party Application : pick.bookcom@gmail.com
+                              Password For 3rd Party Application: pick999book   
+      
